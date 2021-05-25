@@ -1,6 +1,6 @@
-# Brafe 2 - boostrap
+# Brafe 2 - Bootstrap
 
-Quarta versão do segundo layout Brafe, utilizando os conceitos do framework boostrap para dispositivos desktop e mobile.
+Quarta versão do segundo layout Brafe, utilizando os conceitos do framework bootstrap para dispositivos desktop e mobile.
 
 ### Outras versões:
 
