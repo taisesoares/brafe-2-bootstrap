@@ -23,9 +23,8 @@ Modelo de layout utilizando os conceitos de puro css, grid css, flexbox e boostr
 
 ### Brafe 3:
 
+Modelo de layout utilizando os conceitos de puro css, grid css, flexbox e boostrap.
+
 * [Puro CSS](https://github.com/taisesoares/brafe-3-pure-css)
 * [Flexbox](https://github.com/taisesoares/brafe-3-flexbox)
 * [Bootstrap](https://github.com/taisesoares/brafe-3-bootstrap)
-
-
-
